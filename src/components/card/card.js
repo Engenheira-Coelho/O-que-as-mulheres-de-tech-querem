@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-import './footer.css';
+import './card.css';
 
-export default class Footer extends Component {
+export default class Card extends Component {
 
   render() {
     return(
