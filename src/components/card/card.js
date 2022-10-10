@@ -1,15 +1,15 @@
 import React, { Component } from 'react';
-import './footer.css';
+import './card.css';
 
-export default class Footer extends Component {
+export default class Card extends Component {
 
   render() {
     return(
-      <header className="container">
-        <p>
-          Hello! I'm a card.
+      <div className="card" style={{backgroundImage: `url(${this.props.imageUrl})`}}>
+        <p className="comment">
+          {this.props.comment}
         </p>
-      </header>
+      </div>
     )
   }
 }
