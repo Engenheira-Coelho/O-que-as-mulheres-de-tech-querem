@@ -16,21 +16,3 @@
     display: none;
 }
 
-.card:hover {
-    background-color: rgba(182, 121, 109, 0.5);
-    display: flex;
-}
-
-.card:hover .title{
-    display: none;
-}
-
-.card:hover .comment {
-    display: flex;
-    color: black;
-    width: 250px;
-    height: 250px;
-    background-color: rgba(182, 121, 109, 0.5);
-    font-weight: bold;
-    align-items: inherit;
-}
