@@ -1,0 +1,1 @@
+# Como escrever as situações
