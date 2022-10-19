@@ -1,6 +1,6 @@
 import "./general/style/App.css";
-import Header from "./components/header/header";
-import Card from "./components/card/card";
+import Header from "./components/header";
+import Card from "./components/card";
 
 function App() {
   return (
