@@ -1,3 +1,39 @@
 .container {
-    background-color: #282c34;
+    background-color: #2A9D8F;
+    position: absolute;
+    height: fit-content;
+    padding: 1rem 2.5rem;
+
+  
+}
+
+.header-wrapper {
+
+}
+
+p {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    text-transform: uppercase;
+    color: white;
+    font-weight: 700;
+}
+
+a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    text-transform: uppercase;
+    text-decoration: none;
+    color: white;
+    font-size: 10px;
+
+}
+
+a:hover {
+color: grey;
+transition: 0.3s;
 }
