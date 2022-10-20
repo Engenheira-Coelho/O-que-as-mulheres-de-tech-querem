@@ -70,3 +70,5 @@ Muito obrigada às mulheres maravilhosas que contribuiram com esse projeto!
 
 <span style="color:#2A9D8F"><em>Esperamos que com esse projeto seja possível entender o que tornará nosso ambiente de tecnologia mais inclusivo e produtivo.</em></span>
  
+
+teste commit main
