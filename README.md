@@ -35,8 +35,8 @@ O projeto possui no primeiro nível de estrutura as pastas public, src e o arqui
 | ------------------------------------------- | ----------------- |
 | Líder do projeto                            | <a href="https://linktr.ee/engenheira.coelho"><img src="https://avatars.githubusercontent.com/u/82114897?s=400&u=d6c8879b59c0d69fafe4206620f8b4cbd4f4ab81&v=4" width="25px;" style="border-radius:50%" alt=""/></a>|
 | Administradoras do projeto                  | <a href="https://linktr.ee/engenheira.coelho"><img src="https://avatars.githubusercontent.com/u/82114897?s=400&u=d6c8879b59c0d69fafe4206620f8b4cbd4f4ab81&v=4" width="25px;" style="border-radius:50%" alt=""/></a><a href="https://linktr.ee/marcellecode"><img src="https://avatars.githubusercontent.com/u/37669732?v=4" width="25px;" style="border-radius:50%" alt=""/></a>|
-| Time de design                              |  |
-| Desenvolvedoras                              |<a href="https://linktr.ee/engenheira.coelho"><img src="https://avatars.githubusercontent.com/u/82114897?s=400&u=d6c8879b59c0d69fafe4206620f8b4cbd4f4ab81&v=4" width="25px;" style="border-radius:50%" alt=""/></a>  |
+| Time de design                              | <a href="https://github.com/nailabb"><img src="https://avatars.githubusercontent.com/u/106632518?v=4" width="25px;" style="border-radius:50%" alt=""/></a>  |
+| Desenvolvedoras                              |<a href="https://linktr.ee/engenheira.coelho"><img src="https://avatars.githubusercontent.com/u/82114897?s=400&u=d6c8879b59c0d69fafe4206620f8b4cbd4f4ab81&v=4" width="25px;" style="border-radius:50%" alt=""/></a>  <a href="https://github.com/nailabb"><img src="https://avatars.githubusercontent.com/u/106632518?v=4" width="25px;" style="border-radius:50%" alt=""/></a> |
 
 
 ## Como contribuir
@@ -55,7 +55,8 @@ Muito obrigada às mulheres maravilhosas que contribuiram com esse projeto!
     <td align="center">
        <a href="https://linktr.ee/engenheira.coelho"><img src="https://avatars.githubusercontent.com/u/82114897?s=400&u=d6c8879b59c0d69fafe4206620f8b4cbd4f4ab81&v=4" width="80px;" style="border-radius:50%" alt=""/></a>
        <a href="https://linktr.ee/marcellecode"><img src="https://avatars.githubusercontent.com/u/37669732?v=4" width="80px;" style="border-radius:50%" alt=""/></a>
-    </td>
+       <a href="https://github.com/nailabb"><img src="https://avatars.githubusercontent.com/u/106632518?v=4" width="80px;" style="border-radius:50%" alt=""/></a>
+           </td>
   </tr>
 </table>
 
