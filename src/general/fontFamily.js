@@ -1,0 +1,1 @@
+const fontFamily_1 = 'Poppins';
