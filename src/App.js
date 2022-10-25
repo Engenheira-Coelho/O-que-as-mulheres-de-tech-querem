@@ -1,7 +1,8 @@
 import './general/style/App.css';
 import Header from './components/header/header';
 import Card from './components/card/card';
-import SITUATIONS from './general/situations'
+import SITUATIONS from './general/situations';
+
 
 function App() {
   return (
