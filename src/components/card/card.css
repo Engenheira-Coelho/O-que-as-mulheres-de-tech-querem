@@ -1,4 +1,4 @@
-.card {
+/* .card {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -10,29 +10,25 @@
     background-size: cover;
     background-repeat: no-repeat;
     text-align: center;
-}
+} */
 
 
-.description {
-    display: none;
-}
 
-.card:hover {
-   /* background-color: rgba(182, 121, 109, 0.5); */
+
+/* .card:hover {
     display: flex;
-}
+} */
 
-.card:hover .title{
+/* .card:hover .title{
     display: none;
-}
-
+} */
+/* 
 .card:hover .description {
     display: flex;
     color: black;
     width: 250px;
     height: 250px;
-    /* background-color: rgba(182, 121, 109, 0.5); */
     font-weight: bold;
     align-items: inherit;
     text-align: center;
-}
+} */
