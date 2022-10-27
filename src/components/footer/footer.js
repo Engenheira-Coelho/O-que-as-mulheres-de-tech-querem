@@ -3,7 +3,7 @@ import './footer.css';
 import { MdKeyboardArrowUp } from "react-icons/md";
 
 function Footer (props){
-  console.log(props)
+
   return (
     <footer className="footer">
       <div className="btn-container">
