@@ -1,1 +1,1 @@
-const fontFamily_1 = 'Poppins';
+export const fontFamily_1 = 'Poppins';

@@ -2,6 +2,7 @@ import './general/style/App.css';
 import Header from './components/header/header';
 import Card from './components/card/card';
 import SITUATIONS from './general/situations';
+import Footer from './components/footer/footer';
 
 
 function App() {
@@ -15,6 +16,7 @@ function App() {
           image_description={item.image_description}
           color={item.color} />
       ))}
+      <Footer/>
     </div>
   );
 }

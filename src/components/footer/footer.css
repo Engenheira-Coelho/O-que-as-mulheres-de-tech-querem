@@ -1,3 +1,16 @@
-.container {
-    background-color: #282c34;
+.footer {
+    margin: 0;
+    overflow: hidden;
+    background-color: #2A9D8F;
+    padding: 0px 10px;
+    align-items: center;
+    display: flex;
+}
+
+.footer-description {
+
+}
+
+.footer-title {
+    
 }
